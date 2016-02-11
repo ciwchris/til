@@ -33,7 +33,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### JavaScript
 
-
+- [Custom Jasmine Matcher Comparing Object Data Values With Angular](javascript/custom-jasmine-matcher-comparing-object-data-values-with-angular.md)
 
 ### Linux
 
