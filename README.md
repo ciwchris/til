@@ -9,7 +9,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Categories
 
-* [.Net](#dotnet)
+* [.Net](#.net)
 * [Clojure](#clojure)
 * [Elixir](#elixir)
 * [Git](#git)
