@@ -9,6 +9,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Categories
 
+* [.Net](#dotnet)
 * [Clojure](#clojure)
 * [Elixir](#elixir)
 * [Git](#git)
@@ -19,9 +20,13 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ---
 
+### .Net
+
+- [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
+
 ### Clojure
 
-- [Template](clojure/template.md)
+
 
 ### Elixir
 
@@ -33,7 +38,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### JavaScript
 
-- [Custom Jasmine Matcher Comparing Object Data Values With Angular](javascript/custom-jasmine-matcher-comparing-object-data-values-with-angular.md)
+- [Custom Jasmine matcher comparing object data values with angular](javascript/custom-jasmine-matcher-comparing-object-data-values-with-angular.md)
 
 ### Linux
 
