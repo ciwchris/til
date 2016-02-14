@@ -9,7 +9,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Categories
 
-* [.Net](#.net)
+* [.Net](#net)
 * [Clojure](#clojure)
 * [Elixir](#elixir)
 * [Git](#git)
@@ -39,6 +39,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### JavaScript
 
 - [Custom Jasmine matcher comparing object data values with angular](javascript/custom-jasmine-matcher-comparing-object-data-values-with-angular.md)
+- [View global node modules](javascript/view-global-node-modules.md)
 
 ### Linux
 
