@@ -15,6 +15,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Linux](#linux)
+* [Shell](#shell)
 * [Spacemacs](#spacemacs)
 * [Vim](#vim)
 
@@ -44,6 +45,10 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### Linux
 
 
+
+### Shell
+
+- [Creating nested directories](shell/creating-nested-directories.md)
 
 ### Spacemacs
 
