@@ -24,6 +24,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### .Net
 
 - [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
+- [Injecting into views](dotnet/injecting-into-views.md)
 
 ### Clojure
 
