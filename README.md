@@ -37,6 +37,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### Git
 
 - [Edit root commit](git/edit-root-commit.md)
+- [Clone single commit](git/clone-single-commit.md)
 
 ### JavaScript
 
