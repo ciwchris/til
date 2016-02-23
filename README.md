@@ -23,8 +23,8 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### .Net
 
-- [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
 - [Injecting into views](dotnet/injecting-into-views.md)
+- [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
 
 ### Clojure
 
@@ -36,8 +36,8 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Git
 
-- [Edit root commit](git/edit-root-commit.md)
 - [Clone single commit](git/clone-single-commit.md)
+- [Edit root commit](git/edit-root-commit.md)
 
 ### JavaScript
 
@@ -50,6 +50,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Shell
 
+- [Counting line numbers in PowerShell](shell/counting-line-numbers-in-powershell.md)
 - [Creating nested directories](shell/creating-nested-directories.md)
 
 ### Spacemacs
