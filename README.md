@@ -26,14 +26,6 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 - [Injecting into views](dotnet/injecting-into-views.md)
 - [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
 
-### Clojure
-
-
-
-### Elixir
-
-
-
 ### Git
 
 - [Clone single commit](git/clone-single-commit.md)
@@ -43,19 +35,10 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 - [Custom Jasmine matcher comparing object data values with angular](javascript/custom-jasmine-matcher-comparing-object-data-values-with-angular.md)
 - [View global node modules](javascript/view-global-node-modules.md)
-
-### Linux
-
-
+- [Working with promises using karma with Angular](javascript/working-with-promises-using-karma-with-angular.md)
 
 ### Shell
 
 - [Counting line numbers in PowerShell](shell/counting-line-numbers-in-powershell.md)
 - [Creating nested directories](shell/creating-nested-directories.md)
-
-### Spacemacs
-
-
-
-### Vim
 
