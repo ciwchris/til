@@ -10,22 +10,17 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### Categories
 
 * [.Net](#net)
-* [Clojure](#clojure)
-* [Elixir](#elixir)
 * [Git](#git)
 * [JavaScript](#javascript)
-* [Linux](#linux)
 * [Shell](#shell)
-* [Spacemacs](#spacemacs)
-* [Vim](#vim)
 
 ---
 
 ### .Net
 
+- [Assignment with coalescing operator](dotnet/assignment-with-coalescing-operator.md)
 - [Injecting into views](dotnet/injecting-into-views.md)
 - [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
-- [Assignment with coalescing operator](dotnet/assignment-with-coalescing-operator.md)
 
 ### Git
 
