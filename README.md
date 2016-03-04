@@ -11,6 +11,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 * [.Net](#net)
 * [CSS](#css)
+* [FAR Manager](#farmanager)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Shell](#shell)
@@ -26,6 +27,10 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### CSS
 
 - [Viewport length](css/viewport-lengths.md)
+
+### FAR Manager
+
+- [Directory bookmarks](farmanager/directory-bookmarks.md)
 
 ### Git
 
