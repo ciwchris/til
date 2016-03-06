@@ -23,6 +23,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 - [Assignment with coalescing operator](dotnet/assignment-with-coalescing-operator.md)
 - [Injecting into views](dotnet/injecting-into-views.md)
 - [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
+- [Adding headers to static files in ASP.net](dotnet/adding-headers-to-static-files-in-aspnet.md)
 
 ### CSS
 
