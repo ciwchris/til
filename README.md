@@ -11,11 +11,11 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 * [.Net](#net)
 * [CSS](#css)
-* [FAR Manager](#farmanager)
+* [FAR Manager](#far manager)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Shell](#shell)
-* [Spacemacs](spacemacs)
+* [Spacemacs](#spacemacs)
 
 ---
 
