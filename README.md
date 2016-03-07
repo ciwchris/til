@@ -15,6 +15,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Shell](#shell)
+* [Spacemacs](spacemacs)
 
 ---
 
@@ -48,4 +49,8 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 - [Counting line numbers in PowerShell](shell/counting-line-numbers-in-powershell.md)
 - [Creating nested directories](shell/creating-nested-directories.md)
+
+### Spacemacs
+
+- [Running elixir tests using Alchemist](spacemacs/running-elixir-tests-using-alchemist.md)
 
