@@ -11,7 +11,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 * [.Net](#net)
 * [CSS](#css)
-* [FAR Manager](#farmanager)
+* [FARManager](#farmanager)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Shell](#shell)
@@ -52,5 +52,5 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Spacemacs
 
-- [Running elixir tests using Alchemist](spacemacs/running-elixir-tests-using-alchemist.md)
+- [Running Elixir tests using Alchemist](spacemacs/running-elixir-tests-using-alchemist.md)
 
