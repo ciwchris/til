@@ -11,7 +11,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 * [.Net](#net)
 * [CSS](#css)
-* [FAR Manager](#far manager)
+* [FAR Manager](#farmanager)
 * [Git](#git)
 * [JavaScript](#javascript)
 * [Shell](#shell)
@@ -30,7 +30,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 - [Viewport length](css/viewport-lengths.md)
 
-### FAR Manager
+### FARManager
 
 - [Directory bookmarks](farmanager/directory-bookmarks.md)
 
