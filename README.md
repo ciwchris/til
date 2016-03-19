@@ -11,6 +11,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 * [.Net](#net)
 * [CSS](#css)
+* [Elixir](#elixir)
 * [FARManager](#farmanager)
 * [Git](#git)
 * [JavaScript](#javascript)
@@ -30,6 +31,10 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### CSS
 
 - [Viewport length](css/viewport-lengths.md)
+
+### Elixir
+
+- [Exiting iex](elixir/exiting-iex.md)
 
 ### FARManager
 
