@@ -58,5 +58,6 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Spacemacs
 
+- [Changing identation level](spacemacs/changing-identation-level.md)
 - [Running Elixir tests using Alchemist](spacemacs/running-elixir-tests-using-alchemist.md)
 
