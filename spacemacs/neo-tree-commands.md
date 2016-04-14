@@ -1,0 +1,1 @@
+- To rename a file: `C-C C-r`
