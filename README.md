@@ -10,6 +10,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### Categories
 
 * [.Net](#net)
+* [Browser](#browser)
 * [CSS](#css)
 * [Elixir](#elixir)
 * [FARManager](#farmanager)
@@ -27,6 +28,10 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 - [Assignment with coalescing operator](dotnet/assignment-with-coalescing-operator.md)
 - [Injecting into views](dotnet/injecting-into-views.md)
 - [Serving content out of node_modules](dotnet/serving-content-out-of-node_modules.md)
+
+### Browser
+
+- [Developer Tool Commands](browser/developer-tool-commands.md)
 
 ### CSS
 
@@ -60,6 +65,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 - [Changing identation level](spacemacs/changing-identation-level.md)
 - [Neo Tree commands](spacemacs/neo-tree-commands.md)
-- [Window commands](spacemacs/window-commands.md)
 - [Running Elixir tests using Alchemist](spacemacs/running-elixir-tests-using-alchemist.md)
+- [Setup](spacemacs/setup.md)
+- [Window commands](spacemacs/window-commands.md)
 
