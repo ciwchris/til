@@ -18,6 +18,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 * [JavaScript](#javascript)
 * [Shell](#shell)
 * [Spacemacs](#spacemacs)
+* [Vim](#vim)
 
 ---
 
@@ -68,4 +69,8 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 - [Running Elixir tests using Alchemist](spacemacs/running-elixir-tests-using-alchemist.md)
 - [Setup](spacemacs/setup.md)
 - [Window commands](spacemacs/window-commands.md)
+
+### Vim
+
+- [Copy buffer path to clipboard](vim/copy-buffer-path-to-clipboard.md)
 
