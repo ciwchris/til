@@ -73,4 +73,5 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### Vim
 
 - [Copy buffer path to clipboard](vim/copy-buffer-path-to-clipboard.md)
+- [Using netrw](vim/netrw.md)
 
