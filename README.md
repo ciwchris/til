@@ -72,6 +72,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Vim
 
+- [Commands](vim/commands.md)
 - [Copy buffer path to clipboard](vim/copy-buffer-path-to-clipboard.md)
 - [Highlight current line](vim/highlight-current-line.md)
 - [Using netrw](vim/netrw.md)
