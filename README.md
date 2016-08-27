@@ -12,6 +12,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 * [.Net](#net)
 * [Browser](#browser)
 * [CSS](#css)
+* [Elm](#elm)
 * [Elixir](#elixir)
 * [FARManager](#farmanager)
 * [Git](#git)
@@ -38,6 +39,10 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 ### CSS
 
 - [Viewport length](css/viewport-lengths.md)
+
+### Elm
+
+- [Error starting elm-repl](elm/error-start-elm-repl.md)
 
 ### Elixir
 
