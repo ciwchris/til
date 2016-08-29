@@ -54,6 +54,7 @@ variety of languages and technologies. [Thanks jbranchaud](https://github.com/jb
 
 ### Git
 
+- [Clone gist](git/clone-gist.md)
 - [Clone single commit](git/clone-single-commit.md)
 - [Edit root commit](git/edit-root-commit.md)
 
